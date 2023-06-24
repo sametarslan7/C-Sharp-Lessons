@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\c#new\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\user\Desktop\c#new\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\user\Desktop\c#new\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\user\Desktop\c#new\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#new\Methods\Methods\obj\Debug\Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\c#new\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#new\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\user\Desktop\c#new\Methods\Methods\obj\Debug\Methods.pdb

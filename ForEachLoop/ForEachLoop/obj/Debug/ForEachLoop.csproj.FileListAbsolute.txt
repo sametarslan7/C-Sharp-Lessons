@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\c#new\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.exe.config
+C:\Users\user\Desktop\c#new\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.exe
+C:\Users\user\Desktop\c#new\ForEachLoop\ForEachLoop\bin\Debug\ForEachLoop.pdb
+C:\Users\user\Desktop\c#new\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#new\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\c#new\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#new\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.exe
+C:\Users\user\Desktop\c#new\ForEachLoop\ForEachLoop\obj\Debug\ForEachLoop.pdb

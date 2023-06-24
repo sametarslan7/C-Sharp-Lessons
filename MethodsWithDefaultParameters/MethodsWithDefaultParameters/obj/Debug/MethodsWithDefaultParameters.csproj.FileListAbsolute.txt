@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\c#new\MethodsWithDefaultParameters\MethodsWithDefaultParameters\bin\Debug\MethodsWithDefaultParameters.exe.config
+C:\Users\user\Desktop\c#new\MethodsWithDefaultParameters\MethodsWithDefaultParameters\bin\Debug\MethodsWithDefaultParameters.exe
+C:\Users\user\Desktop\c#new\MethodsWithDefaultParameters\MethodsWithDefaultParameters\bin\Debug\MethodsWithDefaultParameters.pdb
+C:\Users\user\Desktop\c#new\MethodsWithDefaultParameters\MethodsWithDefaultParameters\obj\Debug\MethodsWithDefaultParameters.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#new\MethodsWithDefaultParameters\MethodsWithDefaultParameters\obj\Debug\MethodsWithDefaultParameters.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\c#new\MethodsWithDefaultParameters\MethodsWithDefaultParameters\obj\Debug\MethodsWithDefaultParameters.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#new\MethodsWithDefaultParameters\MethodsWithDefaultParameters\obj\Debug\MethodsWithDefaultParameters.exe
+C:\Users\user\Desktop\c#new\MethodsWithDefaultParameters\MethodsWithDefaultParameters\obj\Debug\MethodsWithDefaultParameters.pdb

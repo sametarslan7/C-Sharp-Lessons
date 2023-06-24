@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\c#new\ClasseswithProperty\ClasseswithProperty\bin\Debug\ClasseswithProperty.exe.config
+C:\Users\user\Desktop\c#new\ClasseswithProperty\ClasseswithProperty\bin\Debug\ClasseswithProperty.exe
+C:\Users\user\Desktop\c#new\ClasseswithProperty\ClasseswithProperty\bin\Debug\ClasseswithProperty.pdb
+C:\Users\user\Desktop\c#new\ClasseswithProperty\ClasseswithProperty\obj\Debug\ClasseswithProperty.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#new\ClasseswithProperty\ClasseswithProperty\obj\Debug\ClasseswithProperty.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\c#new\ClasseswithProperty\ClasseswithProperty\obj\Debug\ClasseswithProperty.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#new\ClasseswithProperty\ClasseswithProperty\obj\Debug\ClasseswithProperty.exe
+C:\Users\user\Desktop\c#new\ClasseswithProperty\ClasseswithProperty\obj\Debug\ClasseswithProperty.pdb

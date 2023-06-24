@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\c#new\LoopExample_PrimeNumbers\LoopExample_PrimeNumbers\obj\Debug\LoopExample_PrimeNumbers.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#new\LoopExample_PrimeNumbers\LoopExample_PrimeNumbers\obj\Debug\LoopExample_PrimeNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\c#new\LoopExample_PrimeNumbers\LoopExample_PrimeNumbers\obj\Debug\LoopExample_PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#new\LoopExample_PrimeNumbers\LoopExample_PrimeNumbers\bin\Debug\LoopExample_PrimeNumbers.exe.config
+C:\Users\user\Desktop\c#new\LoopExample_PrimeNumbers\LoopExample_PrimeNumbers\bin\Debug\LoopExample_PrimeNumbers.exe
+C:\Users\user\Desktop\c#new\LoopExample_PrimeNumbers\LoopExample_PrimeNumbers\bin\Debug\LoopExample_PrimeNumbers.pdb
+C:\Users\user\Desktop\c#new\LoopExample_PrimeNumbers\LoopExample_PrimeNumbers\obj\Debug\LoopExample_PrimeNumbers.exe
+C:\Users\user\Desktop\c#new\LoopExample_PrimeNumbers\LoopExample_PrimeNumbers\obj\Debug\LoopExample_PrimeNumbers.pdb

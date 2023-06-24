@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\c#new\SwitchBlocks\SwitchBlocks\obj\Debug\SwitchBlocks.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#new\SwitchBlocks\SwitchBlocks\obj\Debug\SwitchBlocks.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\c#new\SwitchBlocks\SwitchBlocks\obj\Debug\SwitchBlocks.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#new\SwitchBlocks\SwitchBlocks\bin\Debug\SwitchBlocks.exe.config
+C:\Users\user\Desktop\c#new\SwitchBlocks\SwitchBlocks\bin\Debug\SwitchBlocks.exe
+C:\Users\user\Desktop\c#new\SwitchBlocks\SwitchBlocks\bin\Debug\SwitchBlocks.pdb
+C:\Users\user\Desktop\c#new\SwitchBlocks\SwitchBlocks\obj\Debug\SwitchBlocks.exe
+C:\Users\user\Desktop\c#new\SwitchBlocks\SwitchBlocks\obj\Debug\SwitchBlocks.pdb

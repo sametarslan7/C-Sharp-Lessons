@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\c#new\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\MultiDimensionalArrays.exe.config
+C:\Users\user\Desktop\c#new\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\MultiDimensionalArrays.exe
+C:\Users\user\Desktop\c#new\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\MultiDimensionalArrays.pdb
+C:\Users\user\Desktop\c#new\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\MultiDimensionalArrays.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#new\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\MultiDimensionalArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\c#new\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\MultiDimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#new\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\MultiDimensionalArrays.exe
+C:\Users\user\Desktop\c#new\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\MultiDimensionalArrays.pdb

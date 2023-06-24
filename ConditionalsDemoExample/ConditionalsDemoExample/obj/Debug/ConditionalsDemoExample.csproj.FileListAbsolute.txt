@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\c#new\ConditionalsDemoExample\ConditionalsDemoExample\bin\Debug\ConditionalsDemoExample.exe.config
+C:\Users\user\Desktop\c#new\ConditionalsDemoExample\ConditionalsDemoExample\bin\Debug\ConditionalsDemoExample.exe
+C:\Users\user\Desktop\c#new\ConditionalsDemoExample\ConditionalsDemoExample\bin\Debug\ConditionalsDemoExample.pdb
+C:\Users\user\Desktop\c#new\ConditionalsDemoExample\ConditionalsDemoExample\obj\Debug\ConditionalsDemoExample.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#new\ConditionalsDemoExample\ConditionalsDemoExample\obj\Debug\ConditionalsDemoExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\c#new\ConditionalsDemoExample\ConditionalsDemoExample\obj\Debug\ConditionalsDemoExample.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#new\ConditionalsDemoExample\ConditionalsDemoExample\obj\Debug\ConditionalsDemoExample.exe
+C:\Users\user\Desktop\c#new\ConditionalsDemoExample\ConditionalsDemoExample\obj\Debug\ConditionalsDemoExample.pdb

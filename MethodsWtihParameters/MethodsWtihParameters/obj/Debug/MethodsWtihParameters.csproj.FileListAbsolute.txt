@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\c#new\MethodsWtihParameters\MethodsWtihParameters\bin\Debug\MethodsWtihParameters.exe.config
+C:\Users\user\Desktop\c#new\MethodsWtihParameters\MethodsWtihParameters\bin\Debug\MethodsWtihParameters.exe
+C:\Users\user\Desktop\c#new\MethodsWtihParameters\MethodsWtihParameters\bin\Debug\MethodsWtihParameters.pdb
+C:\Users\user\Desktop\c#new\MethodsWtihParameters\MethodsWtihParameters\obj\Debug\MethodsWtihParameters.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#new\MethodsWtihParameters\MethodsWtihParameters\obj\Debug\MethodsWtihParameters.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\c#new\MethodsWtihParameters\MethodsWtihParameters\obj\Debug\MethodsWtihParameters.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#new\MethodsWtihParameters\MethodsWtihParameters\obj\Debug\MethodsWtihParameters.exe
+C:\Users\user\Desktop\c#new\MethodsWtihParameters\MethodsWtihParameters\obj\Debug\MethodsWtihParameters.pdb
